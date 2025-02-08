@@ -37,4 +37,5 @@ Feel free to fork, contribute, and improve the project! 🔥
 **⭐ Star this repo if you found it helpful!** 🚀
 
 ## 📸 Screenshot  
-![iOS Calculator Clone](Screenshot_20250207_125925.png)  
+<img src="assets/Screenshot_20250207_125925" alt="iOS Calculator Clone" width="300">
+
