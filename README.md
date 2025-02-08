@@ -35,3 +35,6 @@ Feel free to fork, contribute, and improve the project! 🔥
 📩 If you have any suggestions, create an issue or submit a pull request.  
 
 **⭐ Star this repo if you found it helpful!** 🚀
+
+## 📸 Screenshot  
+![iOS Calculator Clone](Screenshot_20250207_125925.png)  
