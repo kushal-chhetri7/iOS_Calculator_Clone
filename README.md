@@ -13,10 +13,9 @@ This project is a **fully functional iOS-style calculator** built using **Androi
 
 ## 🔧 Technologies Used  
 - **Android Studio** – IDE for development  
-- **Kotlin / Java** – Core programming language  
+- **Java** – Core programming language  
 - **XML** – UI design and layout  
-- **ConstraintLayout** – For adaptive UI design  
-- **Custom Drawables & Styles** – For iOS-like aesthetics  
+- **ConstraintLayout** – For adaptive UI design    
 
 ## 🚀 Getting Started  
 1. **Clone the Repository**  
